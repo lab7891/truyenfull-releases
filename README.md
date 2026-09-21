@@ -1,3 +1,3 @@
 # TruyenFull Releases
 
-Repository này chỉ chứa các binary phát hành của TruyenFull. Mã nguồn được giữ riêng tư và không được sao chép vào đây.
+Bản phát hành Windows và Android của TruyenFull. Vẫn đang trong quá trình phát triển, sẽ có lỗi. Mong được feedback.
